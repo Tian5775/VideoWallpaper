@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "popper.js": "^1.14.3"
+    "popper.js": "^1.14.3",
+    "vue-cookies": "^1.5.6"
   }
 }
